@@ -3,9 +3,9 @@ package constructor;
 import java.util.Queue;
 
 public class Con_GroupStudy2 {
-String name = "Moti";
+String name = "Motiur";
 int age = 300;
-String address = "Quenns";
+String address = "Queens";
 
 
 public Con_GroupStudy2(String name){
