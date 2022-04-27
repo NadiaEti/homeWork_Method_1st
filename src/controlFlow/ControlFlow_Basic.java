@@ -38,7 +38,7 @@ public class ControlFlow_Basic {
 
 
         // 3rd:
-        int number = 5;
+        int number = 5;     //int variable value is 5
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
 

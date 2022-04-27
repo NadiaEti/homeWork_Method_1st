@@ -19,6 +19,7 @@ public class SingleTon_01 {
 //step : 3rd
     // now I create a return type method without parameter
     public static SingleTon_01 xyz ( ){
+
         return abc;
     }
 
